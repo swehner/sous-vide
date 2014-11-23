@@ -4,7 +4,7 @@ Own version of a sous vide immersion cooker. Very similar to other projects like
 http://seattlefoodgeek.com/2010/02/diy-sous-vide-heating-immersion-circulator-for-about-75/
 http://www.lindens.nu/projects/sous-vide/en.htm
 
-(images/both.jpg)
+![Image of circulator](images/both.jpg)
 
 ##Parts list
 #####Electronics:
@@ -59,10 +59,13 @@ Maybe an accesible USB port would have been nice, especially in the first phases
 ##Images
 
 Closeup of the internal part of the circulator
-(images/closeup.jpg)
+
+![Closeup](images/closeup.jpg)
 
 Clamped inside the Sammla box
-(images/clamped.jpg)
+
+![Clamped to box](images/clamped.jpg)
 
 Inside Sammbla box with lid on
-(images/with_lid.jpg)
+
+![Lid on box](images/with_lid.jpg)
